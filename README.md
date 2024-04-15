@@ -1,5 +1,5 @@
-<div style="text-align: right;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTEyMTY0M21lZDR6MGYxMmJjYzc3bmYwdDE3Yjd1YnN6YnZlODg3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif" alt="MasterHead">
+<div style="text-align: center;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTEyMTY0M21lZDR6MGYxMmJjYzc3bmYwdDE3Yjd1YnN6YnZlODg3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif" alt="MasterHead" style="display: block; margin: 0 auto;">
 </div>
 <h1 align="center">Hi 👋, I'm Ali Ali 😎</h1>
 <h3 align="center">A machine learning engineer from Syria. In addition to my interest in studying and developing Machine learning i am interested in large language models,Also i recently began my journey in learning web skills using Laravel🐘.</h3>
