@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **alirafikali22@gmail.com**
 
-- 📄 Know about my experiences [tech Syria , Olympos Jordan, Master-Minds Erbil](tech Syria , Olympos Jordan, Master-Minds Erbil)
+- 📄 Know about my experiences [HighTech Syria💪🏻, Olympos Jordan💪🏻, Master-Minds-AI Erbil💪🏻]
 
 - ⚡ Fun fact **I am slow 🐢 in communicating my ideas to people.**
 
