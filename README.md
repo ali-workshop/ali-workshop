@@ -1,4 +1,4 @@
-<img align="center" alt="MasterHead" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTEyMTY0M21lZDR6MGYxMmJjYzc3bmYwdDE3Yjd1YnN6YnZlODg3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif">
+
 <img align="left" alt="MasterHead" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtoM2gyYjhoYWNqZXJ1dGlwZXdiMGpkcmFpNHRlZGg3ODF0Z3I0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 <h1 align="center">Hi 👋, I'm Ali Ali 😎</h1>
 <h3 align="center">A machine learning engineer from Syria. In addition to my interest in studying and developing Machine learning i am interested in large language models,Also i recently began my journey in learning web skills using Laravel🐘.</h3>
