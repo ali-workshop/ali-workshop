@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="text-align: right;">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTEyMTY0M21lZDR6MGYxMmJjYzc3bmYwdDE3Yjd1YnN6YnZlODg3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I'm Ali Ali 😎</h1>
