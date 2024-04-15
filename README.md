@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ali-workshop?tab=repositories](https://github.com/ali-workshop?tab=repositories)
 
-- 📝 I regularly write articles on [enhance IDS](enhance IDS)
+- 📝 I regularly write articles on [enhance IDS]
 
 - 💬 Ask me about **Machine learning, Data science, Deep learning, Computer Vision**
 
@@ -33,7 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-ali-98a7a42a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-ali-98a7a42a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ali-ali-98a7a42a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-ali-98a7a42a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ali_r_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ali_r_ali" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100077557913004&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100077557913004&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ali_r_ali5?igsh=dxnwdnr1aho5z2pp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ali_r_ali5?igsh=dxnwdnr1aho5z2pp" height="30" width="40" /></a>
